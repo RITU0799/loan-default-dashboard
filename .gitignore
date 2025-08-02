@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.env
+.vscode/
+*.egg-info/
+.DS_Store
+models/  # if using external download option and don't want to check in large placeholders
